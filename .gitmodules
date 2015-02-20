@@ -4,3 +4,6 @@
 [submodule "snanny-vaimos"]
 	path = snanny-vaimos
 	url = https://github.com/ifremer/snanny-vaimos.git
+[submodule "snanny-argo"]
+	path = snanny-argo
+	url = https://github.com/ifremer/snanny-argo.git
