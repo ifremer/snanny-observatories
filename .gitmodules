@@ -1,0 +1,6 @@
+[submodule "snanny-genavirRV"]
+	path = snanny-genavirRV
+	url = https://github.com/ifremer/snanny-genavirRV.git
+[submodule "snanny-vaimos"]
+	path = snanny-vaimos
+	url = https://github.com/ifremer/snanny-vaimos.git
